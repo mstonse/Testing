@@ -1,0 +1,13 @@
+127.0.0.1 - - [22/Sep/2013:11:47:54 -0700] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:47:55 -0700] "GET /webPage/servlet/corp.ebay.filecounter.servlets.FileCounter HTTP/1.1" 404 1129
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:49:11 -0700] "GET /webPage/servlet/corp.ebay.filecounter.servlets/FileCounter HTTP/1.1" 404 1129
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:50:52 -0700] "GET /webPage/servlet/corp.ebay.filecounter/FileCounter HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:51:12 -0700] "GET /corp.ebay.filecounter/FileCounter HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:54:20 -0700] "GET /webPage/FirstJSP.jsp HTTP/1.1" 200 303
+127.0.0.1 - - [22/Sep/2013:11:56:40 -0700] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:56:41 -0700] "GET /webPage/FirstJSP.jsp HTTP/1.1" 200 303
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:56:49 -0700] "GET /webPage/ HTTP/1.1" 200 303
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:57:06 -0700] "GET /webPage/ HTTP/1.1" 200 303
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:57:07 -0700] "GET /favicon.ico HTTP/1.1" 404 988
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:57:16 -0700] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [22/Sep/2013:11:57:21 -0700] "GET /webPage/ HTTP/1.1" 200 303
